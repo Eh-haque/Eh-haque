@@ -3,7 +3,7 @@
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/Eh-haque?style=social">
 <h3 align="left">I am a MERN stack WEB DEVELOPER with experience. I am working as a Freelance Full Stack web developer.</h3>
 
-<p align="left"> <a href="https://www.facebook.com/EH.ehtisamhaq" target="blank"><img src="https://img.shields.io/badge/facebook-visit-green" alt="EH.ehtisamhaq" /></a> </p>
+<p align="left"> <a href="https://www.facebook.com/EH.ehtisamhaq" target="blank"><img src="https://img.shields.io/badge/facebook-visit-green?style=for-the-badge&logo=appveyor" alt="EH.ehtisamhaq" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/ehtisamul_haque" target="blank"><img src="https://img.shields.io/twitter/follow/ehtisamul_haque?logo=twitter&style=for-the-badge" alt="ehtisamul_haque" /></a> </p>
 
