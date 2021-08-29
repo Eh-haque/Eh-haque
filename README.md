@@ -1,7 +1,7 @@
 <img align="right" alt="coding" width="350" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true">
 <h1 align="center">HI, I Am Md. Ehtisamul Haque, A Professional Web Application Developer</h1>
 
-<p align="left"> <a href="https://www.facebook.com/EH.ehtisamhaq" target="blank"><img alt="GitHub followers" src="https://img.shields.io/github/followers/Eh-haque?style=social" /></a> </p>
+<p align="left"> <a href="https://github.com/Eh-haque" target="blank"><img alt="GitHub followers" src="https://img.shields.io/github/followers/Eh-haque?style=social" /></a> </p>
 
 <h3 align="left">I am a MERN stack WEB DEVELOPER with experience. I am working as a Freelance Full Stack web developer.</h3>
 
