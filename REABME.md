@@ -20,11 +20,11 @@
 
 ### Connect with Me:
 
-[<img align="left" alt="Md. Rokibul Hasan" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][portfolio]
-[<img align="left" alt="brokibulhasan | facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="brokibulhasan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="brokibulhasan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-<a href="https://www.hackerrank.com/rokibulhasan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="rokibulhasan" height="30" width="40" /></a>
+[<img align="left" alt="Md. Ehtisamul Haque" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][portfolio]
+[<img align="left" alt="ehtisam | facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="ehtisam | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="ehtisam | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<a href="https://www.hackerrank.com/ehtisam" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="ehtisam" height="30" width="40" /></a>
 <br />
 
 ### Languages and Tools:
@@ -50,9 +50,9 @@
 
 ### Read More:
 
-[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/md-rokibul-hasan)
-[![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/md.rokibul.hasan.bd)
-[![Questions](https://img.shields.io/badge/%20-Questions-black?color=14171A&labelColor=fff&logo=stackoverflow&logoColor=0c0d0e26)](https://stackoverflow.com/users/14581496/md-rokibul-hasan)
+[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/ehtisamul-haque)
+[![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/EH.ehtisamhaq)
+[![Questions](https://img.shields.io/badge/%20-Questions-black?color=14171A&labelColor=fff&logo=stackoverflow&logoColor=0c0d0e26)](https://stackoverflow.com/users/)
 
 <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> 
 <details>
@@ -60,10 +60,10 @@
  </br>
 </details>
 
-[portfolio]: https://rokibulhasan.xyz
-[twitter]: https://twitter.com/md_rokibulhasan
-[facebook]: https://www.facebook.com/md.rokibul.hasan.bd
-[github]: https://github.com/hasan1119
-[linkedin]: https://www.linkedin.com/in/md-rokibul-hasan
+[portfolio]: https://ehtisam.xyz
+[twitter]: https://twitter.com/ehtisamul_haque
+[facebook]: https://www.facebook.com/EH.ehtisamhaq
+[github]: https://github.com/Eh-haque
+[linkedin]: https://www.linkedin.com/in/ehtisamul-haque
 
-# hasan1119
+# Eh-haque
