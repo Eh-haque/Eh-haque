@@ -3,9 +3,9 @@
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/Eh-haque?style=social">
 <h3 align="left">I am a MERN stack WEB DEVELOPER with experience. I am working as a Freelance Full Stack web developer.</h3>
 
-<p align="left"> <a href="https://www.facebook.com/EH.ehtisamhaq" target="blank"><img src="https://img.shields.io/badge/facebook-visit-green?style=for-the-badge&logo=facebook" alt="EH.ehtisamhaq" /></a> </p>
+<p align="left"> <a href="https://www.facebook.com/EH.ehtisamhaq" target="blank"><img src="https://img.shields.io/badge/facebook-follow-green?style=social&logo=facebook" alt="EH.ehtisamhaq" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/ehtisamul_haque" target="blank"><img src="https://img.shields.io/badge/twitter-follow-green?style=for-the-badge&logo=twitter" alt="ehtisamul_haque" /></a> </p>
+<p align="left"> <a href="https://twitter.com/ehtisamul_haque" target="blank"><img src="https://img.shields.io/badge/twitter-follow-green?style=social&logo=twitter" alt="ehtisamul_haque" /></a> </p>
 
 - 💬 Ask me about **HTML, CSS, BootStrap, JavaScript, React, Node**.
 
