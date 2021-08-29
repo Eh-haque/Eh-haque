@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://www.facebook.com/EH.ehtisamhaq" target="blank"><img src="https://img.shields.io/facebook/follow/EH.ehtisamhaq?logo=facebook&style=for-the-badge" alt="EH.ehtisamhaq" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/ehtisamul_haque" target="blank"><img src="https://img.shields.io/twitter/follow/ehtisamul_haque?logo=twitter&style=for-the-badge" alt="ehtisamul_haque" /></a> </p>
+<p align="left"> <img alt="Twitter URL" src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fehtisamul_haque"> </p>
 
 - 💬 Ask me about **HTML, CSS, BootStrap, JavaScript, React, Node**.
 
