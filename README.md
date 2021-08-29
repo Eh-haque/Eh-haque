@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://www.facebook.com/EH.ehtisamhaq" target="blank"><img src="https://img.shields.io/badge/facebook-follow-green?style=social&logo=facebook" alt="EH.ehtisamhaq" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/ehtisamul_haque" target="blank"><img src="https://img.shields.io/badge/twitter-follow-green?style=social&logo=twitter" alt="ehtisamul_haque" /></a> </p>
+<p align="right"> <a href="https://twitter.com/ehtisamul_haque" target="blank"><img src="https://img.shields.io/badge/twitter-follow-green?style=social&logo=twitter" alt="ehtisamul_haque" /></a> </p>
 
 - 💬 Ask me about **HTML, CSS, BootStrap, JavaScript, React, Node**.
 
