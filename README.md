@@ -37,18 +37,18 @@
 
 ### Read More:
 <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> 
+[portfolio]: https://ehtisam.xyz
+[twitter]: https://twitter.com/ehtisamul_haque
+[facebook]: https://www.facebook.com/EH.ehtisamhaq
+[github]: https://github.com/Eh-haque
+[linkedin]: https://www.linkedin.com/in/ehtisamul-haque
+
 <details>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eh-haque" alt="eh-haque" /></a> </p>
 <p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=eh-haque&show_icons=true&locale=en&layout=compact" alt="eh-haque" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api?username=eh-haque&show_icons=true&locale=en" alt="eh-haque" /></p>
 <p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=eh-haque&" alt="eh-haque" /></p>
 </details>
-
-[portfolio]: https://ehtisam.xyz
-[twitter]: https://twitter.com/ehtisamul_haque
-[facebook]: https://www.facebook.com/EH.ehtisamhaq
-[github]: https://github.com/Eh-haque
-[linkedin]: https://www.linkedin.com/in/ehtisamul-haque
 
 # Eh-haque
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/ehtisamul-haque)
