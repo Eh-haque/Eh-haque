@@ -23,7 +23,7 @@
 - I always love working in **Visual Studio Code** .
 - I've a soft corner for 💻 **Wordpress** and I can do some help with wordpress too.
 <p align="left"> <a href="https://twitter.com/ehtisamul_haque" target="blank"><img src="https://img.shields.io/twitter/follow/ehtisamul_haque?logo=twitter&style=for-the-badge" alt="ehtisamul_haque" /></a> </p>
-</br>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ehtisamul_haque" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ehtisamul_haque" height="30" width="40" /></a>
