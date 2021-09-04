@@ -8,9 +8,7 @@
 
 <h3 align="left">I am a MERN stack WEB DEVELOPER with experience. I am working as a Freelance Full Stack web developer.</h3>
 
-<p align="center"> <a href="https://www.facebook.com/EH.ehtisamhaq" target="blank"><img src="https://img.shields.io/badge/facebook-follow-green?style=social&logo=facebook" alt="EH.ehtisamhaq" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/ehtisamul_haque" target="blank"><img src="https://img.shields.io/badge/twitter-follow-green?style=social&logo=twitter" alt="ehtisamul_haque" /></a> </p>
+<p align="center"> <a href="https://www.facebook.com/EH.ehtisamhaq" target="blank"><img src="https://img.shields.io/badge/facebook-follow-green?style=social&logo=facebook" alt="EH.ehtisamhaq" /></a> <a href="https://twitter.com/ehtisamul_haque" target="blank"><img src="https://img.shields.io/badge/twitter-follow-green?style=social&logo=twitter" alt="ehtisamul_haque" /></a> </p>
 
 - 🌱 I’m currently learning **JavaScript**
 - 👨‍💻 All of my projects are available at [https://github.com/Eh-haque](https://github.com/Eh-haque)
