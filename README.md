@@ -37,11 +37,6 @@
 
 ### Read More:
 <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> 
-[portfolio]: https://ehtisam.xyz
-[twitter]: https://twitter.com/ehtisamul_haque
-[facebook]: https://www.facebook.com/EH.ehtisamhaq
-[github]: https://github.com/Eh-haque
-[linkedin]: https://www.linkedin.com/in/ehtisamul-haque
 
 <details>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eh-haque" alt="eh-haque" /></a> </p>
