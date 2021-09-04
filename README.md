@@ -46,7 +46,8 @@
 <p><img src="https://github-readme-stats.vercel.app/api?username=eh-haque&show_icons=true&locale=en" alt="eh-haque" /></p>
 <p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=eh-haque&" alt="eh-haque" /></p>
 </details>
-<br />
+
+
 [portfolio]: https://ehtisam.xyz
 [twitter]: https://twitter.com/ehtisamul_haque
 [facebook]: https://www.facebook.com/EH.ehtisamhaq
