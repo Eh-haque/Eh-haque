@@ -11,11 +11,8 @@
 <p align="left"> <a href="https://twitter.com/ehtisamul_haque" target="blank"><img src="https://img.shields.io/twitter/follow/ehtisamul_haque?logo=twitter&style=for-the-badge" alt="ehtisamul_haque" /></a> </p>
 
 - 🌱 I’m currently learning **JavaScript**
-
 - 👨‍💻 All of my projects are available at [https://github.com/Eh-haque](https://github.com/Eh-haque)
-
 - 💬 Ask me about **HTML, CSS, BootStrap, JavaScript, React, Node.**
-
 - 📫 How to reach me **ehtisamul@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
