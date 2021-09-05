@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Ehtisam</h1>
+<h1 align="center">Hi 👋, I'm Ehtisam Haq</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
 <img align="right" alt="coding" width="350" src="https://github.com/Eh-haque/Eh-haque/blob/main/code.gif">
-<h1 align="center">HI, I Am Md. Ehtisamul Haque, A Professional Web Application Developer</h1>
+<h3 align="left">HI, I Am A Professional Web Application Developer</h3>
 
 <p align="center"> <a href="https://github.com/Eh-haque" target="blank"><img alt="GitHub followers" src="https://img.shields.io/github/followers/Eh-haque?style=social" /></a> <img src="https://komarev.com/ghpvc/?username=eh-haque&label=Profile%20views&color=0e75b6&style=flat" alt="eh-haque" /></p>
 
