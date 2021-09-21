@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ehtisam Haq</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate frontend developer (Learner)</h3>
 
 <img align="right" alt="coding" width="55%" src="https://github.com/Eh-haque/Eh-haque/blob/main/code.gif">
 <h3 align="left">HI, I Am A Professional Web Application Developer</h3>
