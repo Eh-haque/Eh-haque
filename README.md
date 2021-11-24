@@ -8,7 +8,7 @@
 
 <h4 align="left">I am a MERN stack WEB DEVELOPER with experience. I am learning and practicing as a Freelance Full Stack web developer.</h4>
 
-<p align="center"> <a href="https://www.facebook.com/EH.ehtisamhaq" target="blank"><img src="https://img.shields.io/badge/facebook-follow-green?style=social&logo=facebook" alt="EH.ehtisamhaq" /></a> <a href="https://twitter.com/ehtisamul_haque" target="blank"><img src="https://img.shields.io/badge/twitter-follow-green?style=social&logo=twitter" alt="ehtisamul_haque" /></a> </p>
+<p align="center"> <a href="https://www.facebook.com/EH.ehtisamhaq" target="blank"><img src="https://img.shields.io/badge/facebook-follow-green?style=social&logo=facebook" alt="EH.ehtisamhaq" /></a> <a href="https://twitter.com/ehtisam_haq" target="blank"><img src="https://img.shields.io/badge/twitter-follow-green?style=social&logo=twitter" alt="ehtisamul_haque" /></a> </p>
 
 - 🌱 I’m currently learning **JavaScript**
 - 👨‍💻 All of my projects are available at [https://github.com/Eh-haque](https://github.com/Eh-haque)
@@ -20,11 +20,11 @@
 - I'm a quick learner & I love to learn new 💻 **Technologies**.
 - I always love working in **Visual Studio Code** .
 - I've a soft corner for 💻 **Wordpress** and I can do some help with wordpress too.
-<p align="left"> <a href="https://twitter.com/ehtisamul_haque" target="blank"><img src="https://img.shields.io/twitter/follow/ehtisamul_haque?logo=twitter&style=for-the-badge" alt="ehtisamul_haque" /></a> </p>
+<p align="left"> <a href="https://twitter.com/ehtisam_haq" target="blank"><img src="https://img.shields.io/twitter/follow/ehtisamul_haque?logo=twitter&style=for-the-badge" alt="ehtisamul_haque" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ehtisamul_haque" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ehtisamul_haque" height="30" width="40" /></a>
+<a href="https://twitter.com/ehtisam_haq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ehtisamul_haque" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ehtisamul-haque" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ehtisamul-haque" height="30" width="40" /></a>
 <a href="https://fb.com/eh.ehtisamhaq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="eh.ehtisamhaq" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ehtisamul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ehtisamul" height="30" width="40" /></a>
