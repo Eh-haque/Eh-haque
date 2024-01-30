@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Ehtisam Haq</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate Mern stack developer</h3>
 
 <img align="right" alt="coding" width="55%" src="https://github.com/Eh-haque/Eh-haque/blob/main/code.gif">
 <h3 align="left">HI, I Am A Professional Web Application Developer (Learner)</h3>
 
 <p align="center"> <a href="https://github.com/Eh-haque" target="blank"><img alt="GitHub followers" src="https://img.shields.io/github/followers/Eh-haque?style=social" /></a> <img src="https://komarev.com/ghpvc/?username=eh-haque&label=Profile%20views&color=0e75b6&style=flat" alt="eh-haque" /></p>
 
-<h4 align="left">I am a MERN stack WEB DEVELOPER with experience. I am learning and practicing as a Freelance Full Stack web developer.</h4>
+<h4 align="left">I am a MERN stack WEB DEVELOPER with experience. I am learning and practicing as a Freelance full-stack web developer.</h4>
 
 <p align="center"> <a href="https://www.facebook.com/EH.ehtisamhaq" target="blank"><img src="https://img.shields.io/badge/facebook-follow-green?style=social&logo=facebook" alt="EH.ehtisamhaq" /></a> <a href="https://twitter.com/ehtisam_haq" target="blank"><img src="https://img.shields.io/badge/twitter-follow-green?style=social&logo=twitter" alt="ehtisamul_haque" /></a> </p>
 
@@ -18,8 +18,8 @@
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
 - I'm an aspiring 🔭️ Web Developer currently learning 🌱 **Nodejs** deeply.
 - I'm a quick learner & I love to learn new 💻 **Technologies**.
-- I always love working in **Visual Studio Code** .
-- I've a soft corner for 💻 **Wordpress** and I can do some help with wordpress too.
+- I always loved working in **Visual Studio Code**.
+- I have a soft corner for 💻 **WordPress** and I can do some help with WordPress too.
 <p align="left"> <a href="https://twitter.com/ehtisam_haq" target="blank"><img src="https://img.shields.io/twitter/follow/ehtisamul_haque?logo=twitter&style=for-the-badge" alt="ehtisamul_haque" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
